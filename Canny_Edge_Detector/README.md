@@ -9,8 +9,8 @@
  3. Categorise left over pixels into Strong and Weak with the help of a thershold
  4. **Hysterisis**: Out of the Weak pixels , the ones which have a Strong pixel adjacent to them are retained
 
-**Output**
-* Before
+**Output**  
+* Before  
     ![Before](before.jpg)  
 * After     
     ![Before](after)
