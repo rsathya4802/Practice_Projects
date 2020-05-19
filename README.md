@@ -1,1 +1,1 @@
-# Practice projects
+# Mini Projects done while learning 
